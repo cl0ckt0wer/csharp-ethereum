@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CethService", "CethService\CethService.csproj", "{7C752274-BEBF-49BE-97D0-504CDC94BB50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceth", "Ceth\Ceth.csproj", "{DF172461-F14F-4784-A265-1FE9BCAE7890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceth.P2P", "Ceth.P2P\Ceth.P2P.csproj", "{BF839497-CB50-460B-A57D-B22DFC9B3F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceth.Netutil", "Ceth.Netutil\Ceth.Netutil.csproj", "{6C6F12FB-A8DB-4B37-90E1-08113DDF4A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceth.Common", "Ceth.Common\Ceth.Common.csproj", "{DBFDCB15-70D5-457D-A40C-0B59391CE517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C752274-BEBF-49BE-97D0-504CDC94BB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C752274-BEBF-49BE-97D0-504CDC94BB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C752274-BEBF-49BE-97D0-504CDC94BB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C752274-BEBF-49BE-97D0-504CDC94BB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF172461-F14F-4784-A265-1FE9BCAE7890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF172461-F14F-4784-A265-1FE9BCAE7890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF172461-F14F-4784-A265-1FE9BCAE7890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF172461-F14F-4784-A265-1FE9BCAE7890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF839497-CB50-460B-A57D-B22DFC9B3F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF839497-CB50-460B-A57D-B22DFC9B3F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF839497-CB50-460B-A57D-B22DFC9B3F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF839497-CB50-460B-A57D-B22DFC9B3F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6F12FB-A8DB-4B37-90E1-08113DDF4A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6F12FB-A8DB-4B37-90E1-08113DDF4A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6F12FB-A8DB-4B37-90E1-08113DDF4A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6F12FB-A8DB-4B37-90E1-08113DDF4A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBFDCB15-70D5-457D-A40C-0B59391CE517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFDCB15-70D5-457D-A40C-0B59391CE517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFDCB15-70D5-457D-A40C-0B59391CE517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFDCB15-70D5-457D-A40C-0B59391CE517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FBA06F4-C559-4738-AD48-B93EC5C77474}
+	EndGlobalSection
+EndGlobal
